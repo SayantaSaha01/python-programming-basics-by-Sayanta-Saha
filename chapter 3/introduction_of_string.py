@@ -7,3 +7,4 @@ print(slicing)  # its called index slicing
 
 
 
+ 
