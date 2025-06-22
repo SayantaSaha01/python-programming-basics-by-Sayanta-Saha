@@ -6,7 +6,7 @@ a=(input("print the last name "))
 print(f"good aftenoon {c} {a}") # its newer  method
 
 
-print("good afternoon "+c+" "+a)  #its older method , its concatenate the values of variablle its quite harder than new method
+print("good afternoon "+ c +" "+ a)  #its older method , its concatenate the values of variablle its quite harder than new method
 
 # output
 # print the  first name sayanta
