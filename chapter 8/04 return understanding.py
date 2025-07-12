@@ -7,11 +7,16 @@ def avg():  # This is the function definition
     print("Yay")
     return average4  # Return the calculated average
     
+b=avg()
+print(b)
 
-b=avg()  # Function call
-print("Returned average:", b)
-b=avg()  # Function call
-print("Returned average:", b)
-b=avg()  # Function call
-print("Returned average:", b)
+avg()
+avg()
+avg()
+
+
+
+
+
+
 
