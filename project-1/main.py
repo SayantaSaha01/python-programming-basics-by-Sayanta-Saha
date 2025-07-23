@@ -1,11 +1,11 @@
 '''
 1 for snake
 -1 for water 
-0 for gun
-'''
+0 for gun 
+'''        
 import random
 
-computer = random.choice([-1, 0, 1])
+computer = random.choice([-1, 0,1]) 
 userinput =input("enter the alphabet between  s or w or g  :  ")
 word_to_number ={"s":1,"w":-1,"g":0}
 you= word_to_number[userinput]
