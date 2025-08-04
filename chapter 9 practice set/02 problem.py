@@ -4,7 +4,7 @@
 # score whenever the game() function breaks the Hi-score. 
 import random
 def game():
-    score=random.randint(1,1000)
+    score=random.randint(1,100000)
     with open("chapter 9 practice set/hiscore.txt")as f:
        highscore=f.read()
        if(highscore !=""):
@@ -17,7 +17,7 @@ def game():
         with open("chapter 9 practice set/hiscore.txt","w")as f:
              f.write(str(score))
             
-        return score
+        # return score
 
 
 game()
