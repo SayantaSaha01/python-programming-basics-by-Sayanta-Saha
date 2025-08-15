@@ -6,6 +6,7 @@ class Number:
         return self.n + num.n
 
 n = Number(1)
-m = Number(2)
+m = Number(6)
 
 print(n + m)
+

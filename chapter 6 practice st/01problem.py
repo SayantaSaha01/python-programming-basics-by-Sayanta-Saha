@@ -16,4 +16,4 @@ elif(a3>a2 and a3>a1 and a3>a4):
 
                                             # elif(a4>a2 and a4>a3 and a4>a1):
 else:
-    print("Greatest number is : ",a4)
+    print("Greatest number is :",a4)

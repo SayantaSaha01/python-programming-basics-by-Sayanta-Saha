@@ -7,3 +7,6 @@ class empolyee:
 a= empolyee()
 a.language="java"
 a.manish()
+
+# output
+# manish's favorite language is python

@@ -29,3 +29,11 @@ z=son()
 z.a()
 z.b()
 z.c()
+
+# output
+# good morning
+# good afternoon
+# good night
+# yo dadaji
+# yo papaji
+# yo betaji
