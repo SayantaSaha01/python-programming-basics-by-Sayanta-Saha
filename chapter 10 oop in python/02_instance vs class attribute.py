@@ -10,3 +10,7 @@ print(f"sayanta's age is {sayanta.age},sayanta's name is {sayanta.name} , sayant
 rahul=empolyee() 
 rahul.name ="rahul" 
 print(f"rahul's age is {rahul.age} ,rahul's name is {rahul.name}, rahul's language is {rahul.language}")
+
+# output
+# sayanta's age is 20,sayanta's name is sayanta saha , sayanta's language is java
+# rahul's age is 20 ,rahul's name is rahul, rahul's language is python

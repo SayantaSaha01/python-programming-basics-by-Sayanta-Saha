@@ -12,7 +12,7 @@ print(type(c))  # c = (1,) has a comma, which is what actually makes it a tuple.
 
 
 t =(12,23,"65",'43','sayanta')
-print(t.count(23))
+print(t.count(23))  #it count index value
 
 # here focous on t and m variable program its give same result but written style are different upper styel are shorter 
 #its possible in tuples and string because due to immutability its not able to change original value, but in list you dont able to do it.

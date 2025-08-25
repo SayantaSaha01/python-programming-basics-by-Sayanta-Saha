@@ -3,7 +3,7 @@ t = (1, 2, 3, 2, 5)
 
 # ✅ Methods
 print("count(2):", t.count(2))      # ➜ 2
-print("index(5):", t.index(5))      # ➜ 4
+print("index(5):", t.index(3))      # ➜ 
 
 # ✅ Functions
 print("len:", len(t))               # ➜ 5

@@ -1,8 +1,8 @@
 sayanta = {
     "character" : " gentelemn", "marks" : 78,  # you can write multiples keys in one lie usig coma,  here "character" is one example of key
     "relationship status" : "single",
-    "humar": "good"
-}
+    "humar": "good"}
+
 print(sayanta)
 print(sayanta["marks"])
 print(sayanta["humar"])

@@ -10,6 +10,6 @@ rahul=empolyee()
 rahul.name ="rahul" 
 print(f"rahul's age is {rahul.age} ,rahul's name is {rahul.name}, rahul's language is {rahul.language}")
 
-print(empolyee.language) # ye direct classs se vi attribute peint karwa sakta hai
+print(empolyee.language) # ye direct classs se vi attribute print karwa sakta hai
 
 # Here name is instance attribute and salary and language are class attributes as they directly belong to the class
