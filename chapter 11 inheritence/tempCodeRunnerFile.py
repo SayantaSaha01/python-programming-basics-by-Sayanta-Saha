@@ -1,7 +1,0 @@
-x =grandfather()
-x.a()
-print("")
-y =father()
-y.a()
-y.b()
-print("")

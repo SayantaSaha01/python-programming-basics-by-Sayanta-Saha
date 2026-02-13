@@ -20,3 +20,8 @@ a.samuel("rahul","IBM")
 a.samy(60,"HP")
 
     
+# output
+# hello world mere vai
+# the name is rahul , and company is IBM
+# hello world
+# the number is 60 , and company is HP

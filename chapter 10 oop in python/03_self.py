@@ -15,6 +15,9 @@ arka=employee()
 arka.greet()
 arka.getinfo()
 
+# output
+# good morning
+# arka's favporite language is java , arka's age is 20
 
 
 
